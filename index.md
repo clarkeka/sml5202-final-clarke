@@ -4,9 +4,7 @@
 <h2>Shakespeare</h2>
 <p>
   To be<br>
-or not to be,<br>
-that is<br>
-the question<br>
+or not to be<br>
 </p>
 <hr>
 <ol>
