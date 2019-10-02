@@ -15,3 +15,10 @@ the question<br>
   <li>third</li>
   <li>forth</li>
  </ol>
+<hr>
+<p>Things to Do Today</p>
+<ul>
+   <li>Manage October Budget</li>
+  <li>Book Airbnb for Paris Trip</li>
+  <li>Text Brother</li>
+  </ul>
