@@ -29,6 +29,6 @@
 </table>
 
 <h2>Sentence</h2>
-<html lang="it">
+<html lang="en">
    Italia è magnifica!
 </html>
