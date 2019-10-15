@@ -8,7 +8,7 @@
 <p> Todays date is the 16<sup>th</sup> of October </p>
 
 <h2>Image</h2>
-<img scr="https://farm1.staticflickr.com/764/22977803505_ab110041ca_b.jpg" alt="Campagna, Italy" >
+<img scr="https://www.pinterest.com/pin/403212972876653286" alt="Campagna, Italy" >
 
 <h2> Terms </h2>
 <dl>
