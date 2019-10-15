@@ -29,6 +29,6 @@
 </table>
 
 <h2>Sentence</h2>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it">
+<html lang="it">
   Italy is beautiful!
 </html>
