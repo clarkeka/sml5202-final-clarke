@@ -27,3 +27,8 @@
    <tr><th>Venice</th><th>260,000</th><th>Doge's Palace</th></tr>
    <tr><th>Florence</th><th>380,000</th><th>Tomb of Antipope John XXIII</th></tr>
 </table>
+
+<h2>Sentence</h2>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it">
+   Italia è magnifica!
+</html>
