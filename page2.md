@@ -30,5 +30,5 @@
 
 <h2>Sentence</h2>
 <html lang="it">
-  Italy is beautiful!
+   Italia è magnifica!
 </html>
