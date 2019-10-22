@@ -10,6 +10,7 @@
 <h2>Image</h2>
 <a href="https://farm1.staticflickr.com/764/22977803505_ab110041ca_b.jpg" title="View Image Source">
 <img src="https://farm1.staticflickr.com/764/22977803505_ab110041ca_b.jpg" alt="Campagna, Italy" >
+   </a>
 
 <h2> Terms </h2>
 <dl>
