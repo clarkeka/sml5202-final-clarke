@@ -9,7 +9,10 @@
 
 <h2>Image</h2>
 <a href="https://farm1.staticflickr.com/764/22977803505_ab110041ca_b.jpg" title="View Image Source">
+<p>
 <img class="imgLeft" src="https://farm1.staticflickr.com/764/22977803505_ab110041ca_b.jpg" alt="Campagna, Italy" >
+This is an image of Campagna, Italy. Campagna is a small town in the Campania region of Southern Italy, bordering Acerno, Eboli, and many more comunes. The tourist destinations consist of castles, churches, fountains and bridges. It is a sister city to Monte Carlo and a beautiful place for a vacation.
+   </p>
    </a>
 
 <h2> Terms </h2>
