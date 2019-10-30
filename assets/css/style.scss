@@ -32,28 +32,3 @@ font-family: 'Yrsa', serif;
     vertical-align:top;
     border:1px solid #021a40;
 }
-
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-.row {
-   border: 1px solid black;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
