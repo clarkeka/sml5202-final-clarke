@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 title: Kaia's Example
 description: example of github
 github: 
-  page2: page2.html
-  page3: page3.html
-  page4: exercises.html
+  page2: alphabetandnumbers.html
+  page3: weekdaysmonthsandtime.html
+  page4: peopleplacesandthings.html
+  page5: foodandbeverages.html
+  page6: verbs.html
