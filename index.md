@@ -9,10 +9,3 @@
   <li>Multimedia displays such as photos and videos</li>
   <li>External webpage links for further studying</li>
  </ul>
-
-<hr>
-
-<p>
-   <a href="alphabetsandnumbers.html">Page 2</a> <br>
-   <a href="page3.html">Page 3</a>
-</p>
