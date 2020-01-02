@@ -5,9 +5,10 @@
 <hr>
 
 <h2>The Alphabet</h2>
-<img src="https://videohive.net/item/cartoon-alphabet/21737046" alt="ABCs">
+<img src="https://s3.envato.com/files/244805686/Priv.jpg" alt="ABCs">
 
 
 <hr>
 
 <h2>Numbers</h2>
+<img src="https://img.freepik.com/free-vector/cute-funny-numbers-set_97632-612.jpg?size=626&ext=jpg" alt="Numbers">
