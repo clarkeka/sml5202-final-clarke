@@ -1,22 +1,16 @@
-<h1>Section 1: Description</h1>
+<h1>Welcome!</h1>
 
-<p>Hello! My name is Kaia CLarke, I'm originally from New York City, but I was raised in Chicago. I study Biology and Neuroscience at Grinnell College in Iowa. Since September, I've started my study abroad semester at Queen Mary University of London and have been living on campus since. This website is for my Computer's and Language Class, where I hope to expand my coding knowledge and learn more about computers. Check out my QMplus Hub Page for this class below:<br>
-<a
-   href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=kaia-clarke&page=sml5202-kaia-s-page"> Kaia's QMplus Hub Page for SML5202</a> </p>
-<hr>
-<h1>Section 2: Things To Do</h1>
+<img scr="https://freedesignfile.com/upload/2012/07/playing_children_02.jpg" alt ="Happy Children">
+
+<p>The purpose of this website is to provide an introduction to the English Language for early beginner learners. Our target audience are children from agest 5 to 12 years old. Below is a list of the different things that this site will have to help improve your childs learning of English:</p>
+
 <ul>
-  <li>Sign Up for Muay Thai</li>
-  <li>Create Groceery List</li>
-  <li>Manage Budget</li>
+  <li>Various fun, interactive activities and exercises</li>
+  <li>Multimedia displays such as photos and videos</li>
+  <li>External webpage links for further studying</li>
  </ul>
+
 <hr>
-<h1>Section 3: Favorite Things</h1>
-<ol>
-  <li>Puppies</li>
-  <li>Music</li>
-  <li>Water</li>
-  </ol>
 
 <p>
    <a href="page2.html">Page 2</a> <br>
