@@ -7,6 +7,8 @@
 <h2>The Alphabet</h2>
 <img src="https://s3.envato.com/files/244805686/Priv.jpg" alt="ABCs">
 
+<p>Here's the alphabet song!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/75p-N9YKqNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
