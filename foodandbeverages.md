@@ -30,9 +30,6 @@
 <h2>Beverages</h2>
 <img src="https://media.istockphoto.com/vectors/enjoying-cold-drink-in-summer-vector-id165747218?k=6&m=165747218&s=612x612&w=0&h=J5CPb6chm6J684qfqwCKdR4sQ6zsIDBEhVyZec6_-_s=" alt="Kid drinking juice">
 
-<p>Listen to the time telling song and then play the game below!</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBvmO7NgUp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <h4>Use the dialogue cards to learn about the different type of beverages:</h4>
 
 <h4>Play the image pairing game to match the beverages and their different categories:</h4>
