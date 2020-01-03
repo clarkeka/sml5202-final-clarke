@@ -40,3 +40,8 @@
 <h4>Play Hotspot to match the digital time with the correct image!</h4>
 
 <hr>
+<a href="index.html">Home</a> <br>
+ <a href="alphabetandnumbers.html">Alphabet and Numbers</a> <br>
+ <a href="peopleplacesandthings.html">People, Places, and Things</a> <br>
+ <a href="foodandbeverages.html">Food and Beverages</a> <br>
+ <a href="verbs.html">Verbs</a>
