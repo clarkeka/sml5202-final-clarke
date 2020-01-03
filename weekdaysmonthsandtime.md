@@ -6,10 +6,37 @@
 
 <h2>Days of the Week</h2>
 
+<p>Here is a picture of the days of the week:</p>
+<img src="https://cdn11.bigcommerce.com/s-swdvv2w64y/images/stencil/1280x1280/products/6820/693729/6266__12531.1576890444.jpg?c=2&imbypass=on" alt="Days">
+
+<h3>Use the exercises to learn and practice pronouncing the days of the week:</h3>
+<h4>Exercise 1: Listen to the pronunciation of the days of the week.</h4>
+
+<h4>Exercise 2:Practice pronouncing the days of the week.</h4>
+
 <hr>
 
 <h2>Months and Seasons</h2>
+<img src="https://englishfuninstefyclass.files.wordpress.com/2017/05/img_0804.jpg" alt="Months and Seasons">
+
+<p>Listen to the Months Song!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPeAo1hz8GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h4>Now, place the months in the correct order!</h4>
+
+<p>Listen to the Seasons Song!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZjpI6fgYSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h4>Now, match the seasons with the correct pictures!</h4>
 
 <hr>
 
 <h2>Telling Time!</h2>
+<img src="https://i.pinimg.com/originals/e4/a7/34/e4a734510a1dba0a41cb75958f84ef09.jpg" alt="Clock">
+
+<p>Listen to the time telling song and then play the game below!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBvmO7NgUp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h4>Play Hotspot to match the digital time with the correct image!</h4>
+
+<hr>
