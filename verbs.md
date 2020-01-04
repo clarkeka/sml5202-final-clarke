@@ -25,10 +25,10 @@
 
 
 <hr>
-<a href="index.html">Home</a> <br>
+ <a href="index.html">Home</a> <br>
  <a href="alphabetandnumbers.html">Alphabet and Numbers</a> <br>
  <a href="weekdaysmonthsandtime.html">Weekdays, Months, and Time</a> <br>
- <a href="foodandbeverages.html">Food and Beverages</a> <br>
- <a href="verbs.html">Verbs</a>
+ <a href="peopleplacesandthings.html">People, Places, and Things</a> <br>
+ <a href="foodandbeverages.html">Food and Beverages</a>
 
 
