@@ -14,6 +14,10 @@
 
 <h4>Exercise 2:Practice pronouncing the days of the week.</h4>
 
+<h4>Exercise 3: Find the days of the week and other words in this word search!</h4>
+
+<iframe src="https://h5p.org/h5p/embed/693462" width="1090" height="1006" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <hr>
 
 <h2>Months and Seasons</h2>
@@ -23,11 +27,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lPeAo1hz8GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h4>Now, place the months in the correct order!</h4>
+<iframe src="https://h5p.org/h5p/embed/693470" width="1090" height="992" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <p>Listen to the Seasons Song!</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZjpI6fgYSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h4>Now, match the seasons with the correct pictures!</h4>
+<iframe src="https://h5p.org/h5p/embed/693480" width="1090" height="1291" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
 
@@ -38,6 +44,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBvmO7NgUp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h4>Play Hotspot to match the digital time with the correct image!</h4>
+<iframe src="https://h5p.org/h5p/embed/693493" width="1090" height="473" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
 <a href="index.html">Home</a> <br>
