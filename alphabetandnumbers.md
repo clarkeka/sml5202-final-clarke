@@ -11,6 +11,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/75p-N9YKqNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Alphabet Exercise</h3>
+
 <p>Use this exercise to help with practicing your ABC's and learning new words!</p>
 
 <iframe src="https://h5p.org/h5p/embed/688036" width="1090" height="806" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -23,7 +24,14 @@
 <p>Watch this video on numbers. After you're done, practice your  skills will the number game[s] below:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e0dJWfQHF8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Counting Game!</p>
+<h4>Look at the number and their spelling with these cards:</h4>
+<iframe src="https://h5p.org/h5p/embed/695028" width="1038" height="426" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h4>Now spell out the numbers you see:</h4>
+<iframe src="https://h5p.org/h5p/embed/695034" width="1038" height="806" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h4>Once you've mastered your numbers, take this short quiz!:</h4>
+<iframe src="https://h5p.org/h5p/embed/695050" width="1038" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
 <p>
