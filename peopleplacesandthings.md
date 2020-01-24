@@ -47,6 +47,18 @@
 
 
 <hr>
+<h5>More Resources!</h5>
+<p>Continue practicing your skills on these websites!</p>
+<ul>
+  <li><a
+   href="https://www.myenglishpages.com/site_php_files/vocabulary-exercise-people-family.php"> Family Members</a></li>
+  <li><a
+   href="https://agendaweb.org/vocabulary/places_city-exercises.html"> Places in the city</a></li>
+ <li><a
+   href="https://learnenglishkids.britishcouncil.org/word-games/everyday-objects-1"> Everyday Objects</a></li>
+ </ul>
+
+<hr>
 <a href="index.html">Home</a> <br>
  <a href="alphabetandnumbers.html">Alphabet and Numbers</a> <br>
  <a href="weekdaysmonthsandtime.html">Weekdays, Months, and Time</a> <br>
