@@ -1,4 +1,4 @@
-<h1>People, Places, and Things</h1>
+<h1>VERBS!</h1>
 
 <p>On this page, you will learn about different verbs and the different tenses that are used for them.</p>
 
@@ -25,6 +25,18 @@
 
 <h4>Now, identify the different tenses used in each sentence:</h4>
 <iframe src="https://h5p.org/h5p/embed/695123" width="1038" height="463" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<hr>
+<h5>More Resources!</h5>
+<p>Continue practicing your verb skills and expanding your English grammar with the websites below!</p>
+<ul>
+  <li><a
+   href="https://lingumi.com/dictionary/verbs-for-kids"> Verbs for Kids</a></li>
+  <li><a
+   href="https://www.lingokids.com/english-for-kids/action-verbs"> Action Verbs</a></li>
+ <li><a
+   href="https://learnenglishkids.britishcouncil.org/grammar-practice"> Extended Grammar Practice (Verbs, Adjectives, and More)</a></li>
+ </ul>
 
 
 <hr>
