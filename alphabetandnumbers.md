@@ -41,3 +41,14 @@
  <a href="foodandbeverages.html">Food and Beverages</a> <br>
  <a href="verbs.html">Verbs</a>
 </p>
+
+<hr>
+<h5>More Resources!</h5>
+<p>Here are some more fun websites to practice your ABC's and 123's!</p>
+<ul>
+  <li><a
+   href="https://agendaweb.org/grammar/alphabet-exercises.html"> Learn English Online</a></li>
+  <li><a
+   href="https://www.gamestolearnenglish.com/numbers/"> Games to Learn English</a></li>
+ </ul>
+<hr>
