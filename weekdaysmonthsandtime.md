@@ -9,12 +9,7 @@
 <p>Here is a picture of the days of the week:</p>
 <img src="https://cdn11.bigcommerce.com/s-swdvv2w64y/images/stencil/1280x1280/products/6820/693729/6266__12531.1576890444.jpg?c=2&imbypass=on" alt="Days">
 
-<h3>Use the exercises to learn and practice pronouncing the days of the week:</h3>
-<h4>Exercise 1: Listen to the pronunciation of the days of the week.</h4>
-
-<h4>Exercise 2:Practice pronouncing the days of the week.</h4>
-
-<h4>Exercise 3: Find the days of the week and other words in this word search!</h4>
+<h3>Use the exercise below to find the days of the week and other words in this word search!</h3>
 
 <iframe src="https://h5p.org/h5p/embed/693462" width="1090" height="1006" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
