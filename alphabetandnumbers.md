@@ -34,15 +34,6 @@
 <iframe src="https://h5p.org/h5p/embed/695050" width="1038" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
-<p>
- <a href="index.html">Home</a> <br>
- <a href="weekdaysmonthsandtime.html">Weekdays, Months, and Time</a> <br>
- <a href="peopleplacesandthings.html">People, Places, and Things</a> <br>
- <a href="foodandbeverages.html">Food and Beverages</a> <br>
- <a href="verbs.html">Verbs</a>
-</p>
-
-<hr>
 <h5>More Resources!</h5>
 <p>Here are some more fun websites to practice your ABC's and 123's!</p>
 <ul>
@@ -51,4 +42,13 @@
   <li><a
    href="https://www.gamestolearnenglish.com/numbers/"> Games to Learn English</a></li>
  </ul>
+
 <hr>
+<p>
+ <a href="index.html">Home</a> <br>
+ <a href="weekdaysmonthsandtime.html">Weekdays, Months, and Time</a> <br>
+ <a href="peopleplacesandthings.html">People, Places, and Things</a> <br>
+ <a href="foodandbeverages.html">Food and Beverages</a> <br>
+ <a href="verbs.html">Verbs</a>
+</p>
+
