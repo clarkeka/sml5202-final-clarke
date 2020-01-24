@@ -47,8 +47,23 @@
 <iframe src="https://h5p.org/h5p/embed/693493" width="1090" height="473" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
+<h5>More Resources!</h5>
+<p>Continue practicing your skills on these websites!</p>
+<ul>
+  <li><a
+   href="https://www.englisch-hilfen.de/en/exercises/various/days_of_the_week_spelling.htm"> Days of the Week</a></li>
+  <li><a
+   href="https://www.english-learn-online.com/vocabulary/days-months-seasons/learn-days-months-and-seasons-in-english/"> English Months and Seasons</a></li>
+ <li><a
+   href="https://agendaweb.org/vocabulary/time-exercises.html"> Telling Time Exercises</a></li>
+ </ul>
+<hr>
+
+<hr>
 <a href="index.html">Home</a> <br>
  <a href="alphabetandnumbers.html">Alphabet and Numbers</a> <br>
  <a href="peopleplacesandthings.html">People, Places, and Things</a> <br>
  <a href="foodandbeverages.html">Food and Beverages</a> <br>
  <a href="verbs.html">Verbs</a>
+ 
+ 
