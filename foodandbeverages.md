@@ -35,6 +35,18 @@
 <iframe src="https://h5p.org/h5p/embed/695088" width="1038" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
+<h5>More Resources!</h5>
+<p>Continue practicing your skills about foods and beverages on these websites below!</p>
+<ul>
+  <li><a
+   href="https://www.englisch-hilfen.de/en/exercises_list/food_drink.htm"> Food and Drinks</a></li>
+  <li><a
+   href="https://agendaweb.org/vocabulary/food-exercises.html"> Food</a></li>
+ <li><a
+   href="https://learnenglishkids.britishcouncil.org/category/topics/fruit-and-vegetables"> Fruits and Veggies</a></li>
+ </ul>
+
+<hr>
 <a href="index.html">Home</a> <br>
  <a href="alphabetandnumbers.html">Alphabet and Numbers</a> <br>
  <a href="weekdaysmonthsandtime.html">Weekdays, Months, and Time</a> <br>
