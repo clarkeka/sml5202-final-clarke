@@ -52,7 +52,6 @@
  <li><a
    href="https://agendaweb.org/vocabulary/time-exercises.html"> Telling Time Exercises</a></li>
  </ul>
-<hr>
 
 <hr>
 <a href="index.html">Home</a> <br>
